@@ -1,0 +1,33 @@
+
+
+
+label[class="header"] {
+    font-size: 30px;
+    font-weight: bold;
+    font: Arial;
+    color: white;
+    background-color: rgb(112, 112, 155);
+    text-align: center;
+    padding: 10px;
+    display: block;
+}
+.projects {
+    width: 50%;
+    height: 100px;
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+}
+.links {
+    width: 50%;
+    height: 100px;
+    float: right;
+    font-size: 20px;
+    font-weight: bold;
+    display:block;
+    border-radius: 10%;
+}
+.links:hover {
+    background-color: rgb(121, 113, 113);
+}
